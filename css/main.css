@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap');
+
+/* 
+  ==> FONTS <==
+font-family: 'Cairo', sans-serif;
+font-weight: 200 300 400 600 700 900
+*/
+
+/* 
+  ==> colors <==
+  main color :rgb(63, 58, 100)
+  primary color:  rgb(32, 173, 150)
+  gray color : rgba(105, 105, 105, 0.5)
+*/
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Cairo', sans-serif;
+}
